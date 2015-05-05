@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "browserify-row-flow",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Jesse McCarthy (http://software.jessemccarthy.net/)",
+  "files": [
+    "index.js",
+    "package.json",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "through2": "0.6.x"
+  }
+}
