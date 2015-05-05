@@ -1,5 +1,4 @@
 {
-  "private": true,
   "name": "browserify-row-flow",
   "version": "0.0.1",
   "main": "index.js",
@@ -10,6 +9,17 @@
     "package.json",
     "README.md",
     "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmm/browserify-row-flow.git"
+  },
+  "homepage": "https://github.com/jmm/browserify-row-flow",
+  "description": "Log data about the flow of rows through the browserify pipeline, for debugging.",
+  "keywords": [
+    "browserify",
+    "browserify-plugin",
+    "debugging"
   ],
   "dependencies": {
     "through2": "0.6.x"
